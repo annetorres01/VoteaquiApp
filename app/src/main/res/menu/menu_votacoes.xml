@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/opEmAndamento"
+        android:icon="@drawable/ic_baseline_how_to_vote_24"
+        android:title="Votações em Andamento" />
+    <item
+        android:id="@+id/opPassadas"
+        android:icon="@drawable/ic_baseline_history_24"
+        android:title="Votações Passadas" />
+</menu>
